@@ -1,15 +1,13 @@
-# React + TypeScript + Vite + Zustand + Storybook + jest
+# React + TypeScript + Vite + Zustand + Storybook + Jest
 
-This template can be used for client heavy applications like admins, cms, consoles, etc. No UI framework is configured, you can add any frameworks.
+This template is ideal for client-heavy applications like admin panels, CMSs, consoles, etc. No specific UI framework is pre-configured, allowing you to add any framework of your choice.
 
-`
+## Usage
 
-  dev => yarn dev
-  build => yarn build
-  preview => yarn preview
-  lint => yarn lint
-  test => yarn test
-  storybook => yarn storybook
-  build storybook => yarn storybook:build
-
-`
+- **Development:** `yarn dev`
+- **Build:** `yarn build`
+- **Preview:** `yarn preview`
+- **Linting:** `yarn lint`
+- **Testing:** `yarn test`
+- **Storybook:** `yarn storybook`
+- **Build Storybook:** `yarn storybook:build`
