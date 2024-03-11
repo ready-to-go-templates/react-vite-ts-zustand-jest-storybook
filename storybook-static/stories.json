@@ -1,0 +1,1 @@
+{"v":3,"stories":{"button--primary":{"id":"button--primary","name":"Primary","title":"Button","importPath":"./src/lib/button/button.story.tsx","tags":["story"],"kind":"Button","story":"Primary","parameters":{"__id":"button--primary","docsOnly":false,"fileName":"./src/lib/button/button.story.tsx"}}}}
